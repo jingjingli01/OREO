@@ -1,4 +1,4 @@
-This repository contains the code and resources of our AAAI 2022 paper Text Revision by On-the-Fly Representation Optimization]()
+This repository contains the code and resources of our AAAI 2022 paper [Text Revision by On-the-Fly Representation Optimization]()
 
 
 
