@@ -1,4 +1,4 @@
-This repository contains the code and resources of our AAAI 2022 paper [Text Revision by On-the-Fly Representation Optimization]()
+This repository contains the code and resources of our AAAI 2022 paper [Text Revision by On-the-Fly Representation Optimization](https://arxiv.org/pdf/2204.07359.pdf)
 
 
 
@@ -50,3 +50,14 @@ Evaluation
 ```bash
 python3 formal_eval/metrics.py --ref_dir path_to_reference_files --cls_model path_to_formality_model_for_evaluation --batch_size 512 --result_file output_file
 ```
+# Citation
+Please cite if you use the above resources for your research
+```
+@article{li2022text,
+  title={Text Revision by On-the-Fly Representation Optimization},
+  author={Li, Jingjing and Li, Zichao and Ge, Tao and King, Irwin and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2204.07359},
+  year={2022}
+}
+```
+
